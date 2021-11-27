@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibsa21
 - 👀 I’m interested in Web-development, Machine Learning, and Penetration testing
-- 🌱 I’m currently learning Full-Stack web-development.
+- 🌱 I’m currently learning web-development, object oriented programming and algorithm design.
 - 💞️ I’m looking to collaborate.
 - 📫 Reach me by at ibsaabraham663@gmail.com
 
