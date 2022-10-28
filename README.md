@@ -29,7 +29,6 @@ I am a fourth-year software engineering student at Addis Ababa Science and Techn
 - 🌱 I am currently working as Backend Engineer and Student Mentor at African To Silicon Valley.
 - 🌱 I am a member of GitHub Campus Expert and Microsoft Learn Student Ambassador. 
 - 👀 I'm now looking for a software engineering internship position with a company where I can advance my technical skills and learn engineering best practices.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ibsa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibsa-abraham-38207a1b6/")
 - 📫 Reach me by at ibsaabraham663@gmail.com
 
 ---
