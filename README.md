@@ -25,10 +25,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a 4th year software engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
-- 👀 I’m interested in Web-development, Machine Learning, and Penetration testing
-- 🌱 I’m currently learning web-development, object oriented programming and algorithm design.
-- 💞️ I’m looking to collaborate.
+I am a fourth-year software engineering student at Addis Ababa Science and Technology University and a Data Science student at Turing College. 
+- 🌱 I am currently working as Backend Engineer and Student Mentor at African To Silicon Valley.
+- 🌱 I am a member of GitHub Campus Expert and Microsoft Learn Student Ambassador. 
+- 👀 I'm now looking for a software engineering internship position with a company where I can advance my technical skills and learn engineering best practices.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibsa-abraham-38207a1b6/")
 - 📫 Reach me by at ibsaabraham663@gmail.com
 
