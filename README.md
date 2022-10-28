@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+I am a 4th year software engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 - 👀 I’m interested in Web-development, Machine Learning, and Penetration testing
 - 🌱 I’m currently learning web-development, object oriented programming and algorithm design.
 - 💞️ I’m looking to collaborate.
