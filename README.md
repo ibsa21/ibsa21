@@ -25,10 +25,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a fourth-year software engineering student at Addis Ababa Science and Technology University and a Data Science student at Turing College. 
-- 🌱 I am currently working as Backend Engineer and Student Mentor at African To Silicon Valley.
+I am a software engineer and.
+- 🌱 I am currently working as Backend Engineer and Head of Project Development at African To Silicon Valley.
 - 🌱 I am a member of GitHub Campus Expert and Microsoft Learn Student Ambassador. 
-- 👀 I'm now looking for a software engineering internship position with a company where I can advance my technical skills and learn engineering best practices.
+- 👀 I'm now looking for a software engineering position with a company where I can advance my technical skills and learn engineering best practices.
 - 📫 Reach me by at ibsaabraham663@gmail.com
 
 ---
