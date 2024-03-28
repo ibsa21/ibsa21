@@ -21,34 +21,3 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
----
-
-### :man_technologist: About Me :
-I am a software engineer and.
-- 🌱 I am currently working as Backend Engineer and Head of Project Development at African To Silicon Valley.
-- 🌱 I am a member of GitHub Campus Expert and Microsoft Learn Student Ambassador. 
-- 👀 I'm now looking for a software engineering position with a company where I can advance my technical skills and learn engineering best practices.
-- 📫 Reach me by at ibsaabraham663@gmail.com
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width:"40" height= "40"/>&nbsp;        
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title = "Django" alt = "Django" width = "40" height = "40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width:"40" height= "40"/>&nbsp;           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "40" height = "40" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"  width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-                                                                                                                                               
----
-
-### :fire: My Stats :
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ibsa21)](https://github.com/ibsa21) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsa21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
